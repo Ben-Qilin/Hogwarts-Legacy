@@ -1,5 +1,5 @@
 # Hogwarts-Legacy
-
+![Les_4_maisons](/image-HGL/HGL1.jpg)
 ## Résumé 
 
 L'intrigue se déroule dans l'univers étendu de fantasy imaginé par J. K. Rowling pour les romans Harry Potter et les films Les Animaux fantastiques. Elle suit l'évolution d'un sorcier ou d'une sorcière, c'est-à-dire la personne qui joue au jeu, au sein de l'école de sorcellerie de Poudlard, à la fin des années 18001, soit antérieurement aux événements des deux séries de Rowling.
